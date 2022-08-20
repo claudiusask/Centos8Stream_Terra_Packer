@@ -1,0 +1,3 @@
+[submodule "Packer_Centos_8_Stream"]
+	path = Packer_Centos_8_Stream
+	url = git@github.com:claudiusask/Packer_Centos_8_Stream.git
