@@ -1,0 +1,4 @@
+1. This the main repo for Centos8 to provision on vpshere cluster.
+2. The Packer folder is a different repo which is added with "git submodule <github ssh URL>.
+3. Add ansible also as a submodule, but ansile repo resides on wsl2.
+master or main
