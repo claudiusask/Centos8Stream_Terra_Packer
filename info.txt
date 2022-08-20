@@ -1,3 +1,6 @@
 1. This the main repo for Centos8 to provision on vpshere cluster.
 2. The Packer folder is a different repo which is added with "git submodule <github ssh URL>.
 3. Add ansible also as a submodule, but ansile repo resides on wsl2.
+
+The Packer makes and image on vpshere.
+The Terraform uses that image and provisions the VM, ansible configures the vm including the new hard drive with partitions added to fstab also.
